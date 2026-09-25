@@ -17,3 +17,9 @@
 | Time Conversion | O(1) | O(1) |
 | Compare the Triplets | O(1) | O(1) |
 | Sparse Arrays | O(N × Q) | O(Q) |
+
+## HackerRank Badge / Achievement
+
+My HackerRank badge achievement is shown in the uploaded screenshot in this repository.
+
+
